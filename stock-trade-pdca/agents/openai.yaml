@@ -1,0 +1,4 @@
+interface:
+  display_name: "台股交易 PDCA"
+  short_description: "輸入股號，整理交易前確認、股債選擇、風險劇本與交易後核對紀錄"
+  default_prompt: "使用 $stock-trade-pdca 分析這個股號，產出交易確認清單、進出場劇本與PDCA流程圖。"
